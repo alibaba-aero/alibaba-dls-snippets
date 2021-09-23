@@ -1,6 +1,6 @@
 {
     "name": "alibaba-dls-snippets",
-    "displayName": "alibaba-dls-snippets",
+    "displayName": "Alibaba DLS Snippets",
     "description": "snippets for alibaba dls components",
     "version": "0.0.1",
     "engines": {
