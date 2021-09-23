@@ -9,11 +9,27 @@
     "categories": [
         "Snippets"
     ],
+    "keywords": [
+        "Alibaba Travels .Co",
+        "Alibaba DLS Snippets",
+        "Vue",
+        "Vue 3",
+        "Vue 2",
+        "Composition API",
+        "Vue Snippets"
+    ],
+    "extensionDependencies": [
+        "octref.vetur"
+    ],
     "contributes": {
         "snippets": [
             {
                 "language": "html",
-                "path": "./snippets/vue-template.json"
+                "path": "./snippets/dls-card.json"
+            },
+            {
+                "language": "vue-html",
+                "path": "./snippets/dls-card.json"
             }
         ]
     }
