@@ -3,6 +3,7 @@
     "displayName": "Alibaba DLS Snippets",
     "description": "snippets for alibaba dls components",
     "version": "0.0.1",
+    "publisher": "mhdi-kr",
     "engines": {
         "vscode": "^1.60.0"
     },
