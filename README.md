@@ -1,6 +1,6 @@
 # Alibaba DLS snippets for vscode
 
-![alibaba dls snippets repository cover](cover.png)
+![alibaba dls snippets repository cover](https://raw.githubusercontent.com/alibaba-aero/alibaba-dls-snippets/main/images/cover.png?token=ALJDDSUFQRCNRHLMZ4NOERDBJRRW4)
 
 ## Installation
 
