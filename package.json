@@ -1,36 +1,46 @@
 {
-    "name": "alibaba-dls-snippets",
-    "displayName": "Alibaba DLS Snippets",
-    "description": "snippets for alibaba dls components",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.60.0"
-    },
-    "categories": [
-        "Snippets"
-    ],
-    "keywords": [
-        "Alibaba Travels .Co",
-        "Alibaba DLS Snippets",
-        "Vue",
-        "Vue 3",
-        "Vue 2",
-        "Composition API",
-        "Vue Snippets"
-    ],
-    "extensionDependencies": [
-        "octref.vetur"
-    ],
-    "contributes": {
-        "snippets": [
-            {
-                "language": "html",
-                "path": "./snippets/dls-card.json"
-            },
-            {
-                "language": "vue-html",
-                "path": "./snippets/dls-card.json"
-            }
-        ]
-    }
+	"name": "alibaba-dls-snippets",
+	"displayName": "Alibaba DLS Snippets",
+	"description": "snippets for alibaba dls components",
+	"version": "0.0.1",
+	"publisher": "MahdiKarimi",
+	"engines": {
+		"vscode": "^1.60.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/alibaba-aero/alibaba-dls-snippets"
+	},
+	"categories": [
+		"Snippets"
+	],
+	"keywords": [
+		"Alibaba Travels .Co",
+		"Alibaba DLS Snippets",
+		"Vue",
+		"Vue 3",
+		"Vue 2",
+		"Composition API",
+		"Vue Snippets"
+	],
+	"extensionDependencies": [
+		"octref.vetur"
+	],
+	"contributes": {
+		"snippets": [
+			{
+				"language": "html",
+				"path": "./snippets/dls-card.json"
+			},
+			{
+				"language": "vue-html",
+				"path": "./snippets/dls-card.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "9433ce94-05f4-45f8-acb8-4d10cfe12300",
+		"publisherDisplayName": "Mahdi Karimi",
+		"publisherId": "7ccba864-340b-400b-8134-03e7696314f4"
+	}
 }
