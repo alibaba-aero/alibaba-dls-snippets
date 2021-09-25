@@ -7,7 +7,7 @@
     "DLS Button [with every prop]": {
         "prefix": "!abtn-full",
         "body": "<a-button variant=\"${1}\" size=\"${2}\" block disabled=\"${3}\" loading=\"${4}\">${5}</a-button>",
-        "description": "DLS Button Including every possible props"
+        "description": "DLS Button Including every possible prop"
     },
     "DLS Button [with variant and @click]": {
         "prefix": "!abtn-simple",
